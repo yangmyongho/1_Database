@@ -1,0 +1,13 @@
+1. Oracle 관련 프로그램 설치
+-jdk 설치 
+-eclips 설치
+-oracle 설치
+-eclips + oracle db 연동 환경설정
+
+2.user 등록 (scott/tiger)
+
+3.project 생성
+
+4.chap02_sql 기본개념 실습
+-sql : ddl, dml, dcl
+-oracle 기본자료형, 제약조건, 시퀀스
